@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"96270b9cc3a6d807","type":"text","text":"Block chain","x":-360,"y":-240,"width":250,"height":60,"color":"1"},
+		{"id":"b337beae6b49df1f","type":"text","text":"IoT","x":-60,"y":-240,"width":250,"height":60,"color":"5"},
+		{"id":"c2ab639840f372b2","type":"file","file":"__Media/Blockchain1.webp","x":-368,"y":-480,"width":267,"height":160},
+		{"id":"29b3af741210f680","type":"file","file":"__Papers/Shahizan 2020.pdf","x":65,"y":-100,"width":400,"height":400,"color":"2"},
+		{"id":"15aea32654238489","type":"file","file":"1∩╕ÅΓâú Primary Sources/Shahizan 2020.md","x":-435,"y":-100,"width":400,"height":400,"color":"6"},
+		{"id":"33b7a44aa9430da5","type":"file","file":"Excalidraw/SLR github.md","x":-1000,"y":-100,"width":400,"height":400},
+		{"id":"1d497af21c13d65b","type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/78X1mi2f93g?si=M0eqpKNlRK6uqfFW\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>","x":65,"y":-670,"width":625,"height":350}
+	],
+	"edges":[
+		{"id":"35bc1ad2fffe7bb9","fromNode":"96270b9cc3a6d807","fromSide":"right","toNode":"b337beae6b49df1f","toSide":"left"},
+		{"id":"a1874046b6fdf1a4","fromNode":"96270b9cc3a6d807","fromSide":"bottom","toNode":"15aea32654238489","toSide":"top"},
+		{"id":"d1072c26590de597","fromNode":"c2ab639840f372b2","fromSide":"bottom","toNode":"96270b9cc3a6d807","toSide":"top"},
+		{"id":"1ba4817840c739ab","fromNode":"15aea32654238489","fromSide":"right","toNode":"29b3af741210f680","toSide":"left"},
+		{"id":"30602e9e12d553bd","fromNode":"c2ab639840f372b2","fromSide":"right","toNode":"1d497af21c13d65b","toSide":"left"},
+		{"id":"ced28fbdf4054881","fromNode":"15aea32654238489","fromSide":"left","toNode":"33b7a44aa9430da5","toSide":"right"},
+		{"id":"833b28f5a7d0afbb","fromNode":"c2ab639840f372b2","fromSide":"left","toNode":"33b7a44aa9430da5","toSide":"top"}
+	]
+}
