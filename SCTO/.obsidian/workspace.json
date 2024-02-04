@@ -263,13 +263,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "dbfolder:Create a new database table": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a7c86b3d42267f28",
   "lastOpenFiles": [
+    "Pasted Image 20240204160334_688.png",
     "Canvas/Untitled.canvas",
     "Canvas/Reference Manager.canvas",
     "Canvas/Start here.canvas",
@@ -324,7 +325,6 @@
     "__Papers/Waleed 2023.pdf",
     "Pasted Image 20240202101844_201.png",
     "__Media/Pasted Image 20240202095039_003.jpg",
-    "__Media/Screenshot 2022-12-14 at 17.03.26.jpg",
-    "Untitled 1.canvas"
+    "__Media/Screenshot 2022-12-14 at 17.03.26.jpg"
   ]
 }
